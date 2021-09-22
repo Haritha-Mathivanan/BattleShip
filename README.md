@@ -7,5 +7,6 @@
 * Get Player Input
 * Get AI Input
 * Write Algorithm for generating AI Input 
+* Write Algorithm for Checking Game State
 * Display Winner
 
