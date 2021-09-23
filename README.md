@@ -6,7 +6,6 @@
 * Start Game and Display Empty Board with (A-J)Columns and (1-10)Rows
 * Get Player Input
 * Get AI Input
-* Write Algorithm for generating AI Input 
 * Write Algorithm for Checking Game State
 * Display Winner
 
